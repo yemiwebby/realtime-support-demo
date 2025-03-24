@@ -87,3 +87,25 @@ h1 {
 .input-area button:hover {
   background-color: #0056b3;
 }
+
+.my-message {
+  background-color: #007bff;
+  color: white;
+  align-self: flex-end;
+  margin-left: auto;
+  padding: 10px;
+  border-radius: 8px;
+  max-width: 70%;
+  margin: 8px 0;
+}
+
+.their-message {
+  background-color: #e9ecef;
+  color: black;
+  align-self: flex-start;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 8px;
+  max-width: 70%;
+  margin: 8px 0;
+}
